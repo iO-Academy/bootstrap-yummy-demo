@@ -1,0 +1,29 @@
+.blue {
+    background: blue;
+    height: 430px;
+    margin-bottom: 30px;
+}
+
+.red {
+    background: red;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.green {
+    background: green;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.yellow {
+    background: yellow;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.turquoise {
+    background: turquoise;
+    height: 660px;
+    margin-bottom: 30px;
+}
